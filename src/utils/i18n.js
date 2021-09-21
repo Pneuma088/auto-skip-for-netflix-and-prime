@@ -96,7 +96,7 @@ export const i18nMap = {
   },
   tr_TR: {
     next_epi: "Sıradaki",
-    skip_intro: "Jeneriği Atla",
+    skip_intro: "İntroyu Atla",
     skip_recap: "Özeti Atla",
   },
   ru_RU: {
